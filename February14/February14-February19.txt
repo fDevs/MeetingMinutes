@@ -16,5 +16,5 @@ New business:
 3. Reveiwing bootstrap
 4. Rizzy will intergrate Bootstrap into his stuff
 5. Riz, Fayyaz will use HTML 5up
-6. At least get through the tutorial for ReactJS for everyone, whilst also working on your own projects
+6. At least get through the tutorial for ReactJS for everyone, whilst also working on your own projects using HTML 5up
 https://facebook.github.io/react-native/docs/getting-started.html#content
