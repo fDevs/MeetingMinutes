@@ -1,0 +1,20 @@
+Agenda for 2/14 Meeting
+Old business:
+1. Vote on previous meeting minutes.
+2. Review Amer, Rizwan, Ozair project. 
+3. Review Taiyyab, Fayyaz updated project.
+4. 
+
+New business:
+1. Vote on timing for next meeting.
+2. Haseeb's project? Updated fdevs site.
+3. Discuss discord / whats app / join me.
+
+2/19 Meeting Minutes------------
+1. Looking at Rizwan's code
+2. difference between merge and commit: 
+3. Reveiwing bootstrap
+4. Rizzy will intergrate Bootstrap into his stuff
+5. Riz, Fayyaz will use HTML 5up
+6. At least get through the tutorial for ReactJS for everyone,
+https://facebook.github.io/react-native/docs/getting-started.html#content
