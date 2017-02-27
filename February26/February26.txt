@@ -4,3 +4,19 @@ Agenda for 2/26
 2. ReactNative / WebDev / FullStack Discussion
 3. Assignments
 
+-----------------
+
+Meeting Discussion:
+
+
+1. Went over RactNative stuff
+2. will start RN in Spring break 2 weeks from now
+3. ate ice cream and croissants.
+
+
+-----------------
+
+Goals for next week 03/05
+ -Fayyaz: Make website as a Twitch streamer using HTML5up Template
+ -Rizwan: Redo LoZ website without the HTML5up template
+ -Taiyyab: Do ASP.NET shtuff have a prototype wth it.
