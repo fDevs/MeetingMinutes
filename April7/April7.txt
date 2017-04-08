@@ -1,0 +1,19 @@
+Present:
+Fayyaz
+Taiyyab
+Zaki
+Rizwan
+Amer
+Haseeb
+
+Location:
+California, 2nd Floor
+
+Time:
+10:15PM
+
+Agenda:
+Starting MVC project from scratch.
+
+Assignment for next week:
+Completion of project / Finishing touches.
