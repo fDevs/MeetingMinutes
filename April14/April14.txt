@@ -1,0 +1,20 @@
+Attendees:
+Haseeb
+Fayyaz
+Amer
+Taiyyab
+Rizwan
+
+Time:
+10:00 - 
+
+Topic:
+Model in MVC
+
+Assignment:
+Create a ProfileController.
+Create a Profile class.
+Within the Index action of the ProfileController add a case switch for different instances of the Profile class.
+Update the Index.cshtml display all the aspects of the profile.
+Style the Index.cshtml to make it prettier.
+
