@@ -1,0 +1,14 @@
+Attendees:
+Haseeb
+Fayyaz
+Taiyyab
+Rizwan
+
+Time:
+10:00 - 
+
+Topic:
+Model <-> View & View Model, Databases in general.
+
+Assignment:
+
